@@ -11,13 +11,9 @@ public class HelloWorld {
 		System.out.println("stg!");
 		System.out.println("stg!");
 
-		System.out.println("master!123");
+		System.out.println("master!1");
 
-		System.out.println("dev!");
-		System.out.println("dev!");
-		System.out.println("dev!");
-		System.out.println("dev!");
-		System.out.println("dev!111");
+		System.out.println("dev!1");
 	}
 
 }
