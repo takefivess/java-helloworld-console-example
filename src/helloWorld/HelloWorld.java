@@ -13,8 +13,9 @@ public class HelloWorld {
 
 		System.out.println("master!");
 
-		System.out.println("dev!1");
-		System.out.println("dev!2");
+		System.out.println("dev!");
+		System.out.println("dev!");
+		System.out.println("dev!");
 	}
 
 }
